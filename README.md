@@ -1,6 +1,8 @@
 # Election_Analysis
 The purpose of this module is to used Python Programming Language to: read and write text files, determine unique election candidates, total election votes as a whole, election votes-per-candidate, percentage of votes for each candidate, and determine the election winner based on the data in the given csv (our text file).
 
+[PyPoll.py.zip](https://github.com/efuen0077/Election_Analysis/files/4398466/PyPoll.py.zip)
+
 ## Challenge
 ### Background
 We know that not everyone has voted in this election, and the election commission wants Seth’s team to confirm the voter turnout for each county. In this challenge, you will help Seth and Tom determine the number of votes that were cast from each county and the percentage of votes each county contributed to the election.
