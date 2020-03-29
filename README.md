@@ -32,3 +32,4 @@ Write data to an output file and print the file.
 
 ### Analysis
 
+From our data, we were able to determine that the total amount of votes for the election was 369,711. There were threee counties involved in this election (Jefferson, Denver, and Arapahoe), which had the following voting percentages: 10.5% (38,855 votes) , 82.8% (306,055 votes), 6.7% (24,801 votes) respectively. The county that participated the most in this election was Denver.
