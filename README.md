@@ -21,6 +21,6 @@ Write data to an output file and print the file.
 4) Create an empty string that will hold the county name that had the largest turnout.
 5) Declare a variable that represents the number of votes that a county received. Hint: Inside a for loop, add an if statement        to check if the county name has already been recorded. If not, add it to the list of county names.
 6) Inside the with open() function where you are outputting the file, do the following:
-7) Create three if statements to print out the voter turnout results similar to the results shown above.
-8) Add the results to the output file.
-9) Print the results to the command line.
+   -Create three if statements to print out the voter turnout results similar to the results shown above.
+   -Add the results to the output file.
+   -Print the results to the command line.
