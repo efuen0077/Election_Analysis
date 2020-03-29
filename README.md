@@ -24,3 +24,5 @@ Write data to an output file and print the file.
    -Create three if statements to print out the voter turnout results similar to the results shown above.
    -Add the results to the output file.
    -Print the results to the command line.
+### Python Code and Text File
+[PyPoll_Challenge.py.zip](https://github.com/efuen0077/Election_Analysis/files/4398451/PyPoll_Challenge.py.zip)
